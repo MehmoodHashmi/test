@@ -2,5 +2,7 @@
 
 also this is readme me file written in .adoc format.
 
+link:images/new.adoc[i'm link to another adoc file]
+
 .this is image of aws things
 image::images/IMG_0217.PNG[width=65%]
