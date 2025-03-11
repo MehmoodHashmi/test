@@ -1,4 +1,5 @@
 :toc:
+:title: Anohter heading
 
 = another heading
 
