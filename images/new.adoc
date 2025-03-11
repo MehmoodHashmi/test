@@ -1,7 +1,7 @@
 :toc:
-:title: Anohter heading
+:title: Another heading
 
-= another heading
+= Another heading
 
 This is also content
 
@@ -10,6 +10,8 @@ This is also content
 This is rough content
 
 === 3rd heading
+
+This is text.
 
 .this is image
 image::IMG_0217.PNG[width=65%]
