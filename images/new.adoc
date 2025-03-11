@@ -2,9 +2,12 @@
 
 = another heading
 
-this is also content
+This is also content
 == second heading
 
-this is rough content
+This is rough content
 
 === 3rd heading
+
+.this is image
+image::IMG_0217.PNG[width=65%]
