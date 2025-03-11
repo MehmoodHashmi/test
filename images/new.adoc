@@ -3,6 +3,7 @@
 = another heading
 
 This is also content
+
 == second heading
 
 This is rough content
