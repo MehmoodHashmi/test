@@ -3,4 +3,4 @@
 also this is readme me file written in .adoc format.
 
 .this is image of aws things
-image::/images/IMG_0217.png[width=65%]
+image::images/IMG_0217.png[width=65%]
